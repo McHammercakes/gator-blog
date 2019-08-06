@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
 title: Everything About The Alogator
-image: /img/home-jumbotron.jpg
-heading: 'Web Development, Sports, Hobbies'
-subheading: Support sustainable farming while enjoying a cup
+image: /img/la-sports.jpg
+heading: LA Sports
+subheading: 'Web Development, Sports, Hobbies'
 mainpitch:
   title: Why Kaldi
   description: >
