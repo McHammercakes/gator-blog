@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Everything About The Alogator
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
+heading: 'Web Development, Sports, Hobbies'
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
