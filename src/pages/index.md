@@ -4,6 +4,13 @@ title: Everything LA Sports
 image: /img/la-sports.jpg
 heading: LA Sports
 subheading: 'Lakers, Rams, Dodgers, Kings'
+mainpitch:
+  title: >-
+    Los Angeles has the best sports teams in the world! This website will talk
+    about all sports teams and go in detail of each game, decision and player. 
+  description: >-
+    Los Angeles has the best sports teams in the world! This website will talk
+    about all sports teams and go in detail of each game, decision and player. 
 description: >-
   Los Angeles has the best sports teams in the world! This website will talk
   about all sports teams and go in detail of each game, decision and player. 
@@ -36,5 +43,36 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
+  heading: >-
+    Los Angeles has the best sports teams in the world! This website will talk
+    about all sports teams and go in detail of each game, decision and player. 
+  description: >-
+    Los Angeles has the best sports teams in the world! This website will talk
+    about all sports teams and go in detail of each game, decision and player. 
+main:
+  heading: >-
+    Los Angeles has the best sports teams in the world! This website will talk
+    about all sports teams and go in detail of each game, decision and player. 
+  description: >-
+    Los Angeles has the best sports teams in the world! This website will talk
+    about all sports teams and go in detail of each game, decision and player. 
+  image1:
+    alt: >-
+      Los Angeles has the best sports teams in the world! This website will talk
+      about all sports teams and go in detail of each game, decision and
+      player. 
+    image: /img/apple-touch-icon.png
+  image2:
+    alt: >-
+      Los Angeles has the best sports teams in the world! This website will talk
+      about all sports teams and go in detail of each game, decision and
+      player. 
+    image: /img/apple-touch-icon.png
+  image3:
+    alt: >-
+      Los Angeles has the best sports teams in the world! This website will talk
+      about all sports teams and go in detail of each game, decision and
+      player. 
+    image: /img/apple-touch-icon.png
 ---
 
