@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Everything About The Alogator
+title: Everything LA Sports
 image: /img/la-sports.jpg
 heading: LA Sports
-subheading: 'Web Development, Sports, Hobbies'
+subheading: 'Lakers, Rams, Dodgers, Kings, Galaxy'
 mainpitch:
   title: Why Kaldi
   description: >
