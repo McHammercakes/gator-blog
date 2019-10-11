@@ -3,6 +3,9 @@ const path = require("path");
 const { createFilePath } = require("gatsby-source-filesystem");
 const { fmImagesToRelative } = require("gatsby-remark-relative-images");
 
+// Parse date information out of blog post filename.
+const BLOG_POST_FILENAME_REGEX = /([0-9]+)\-([0-9]+)\-([0-9]+)\-(.+)\.md$/;
+
 exports.createPages = ({ actions, graphql }) => {
   const { createPage } = actions;
 
@@ -78,11 +81,32 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
   fmImagesToRelative(node); // convert image paths for gatsby images
 
   if (node.internal.type === `MarkdownRemark`) {
-    const value = createFilePath({ node, getNode });
-    createNodeField({
-      name: `slug`,
-      node,
-      value
-    });
+    const slug = createFilePath({ node, getNode });
+    const match = BLOG_POST_FILENAME_REGEX.exec(slug);
+    if (match !== null) {
+      const year = match[1];
+      const month = match[2];
+      const day = match[3];
+      const filename = match[4];
+      const date = new Date(year, month - 1, day);
+
+      createNodeField({
+        name: `slug`,
+        node,
+        value: `/blog/${filename}`
+      });
+
+      createNodeField({
+        name: `date`,
+        node,
+        value: date.toJSON()
+      });
+    } else {
+      createNodeField({
+        name: `slug`,
+        node,
+        value: slug
+      });
+    }
   }
 };
