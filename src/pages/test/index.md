@@ -1,7 +1,5 @@
 ---
-templateKey: "test-page"
-path: /test
+templateKey: test-page
 title: Test
 ---
-
-Test Post Adding to the page
+Test Post Adding to the page. Added fields to top in config
