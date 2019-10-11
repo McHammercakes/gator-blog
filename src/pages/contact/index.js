@@ -39,7 +39,7 @@ export default class Index extends React.Component {
         <section
           className="section"
           style={{
-            height: "72vh"
+            height: "83vh"
           }}>
           <div className="container">
             <div className="content">
