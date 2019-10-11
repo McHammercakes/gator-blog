@@ -1,5 +1,7 @@
 ---
-templateKey: test-page
+templateKey: "test-page"
+path: /test
 title: Test
 ---
+
 Test Post Adding to the page. Added fields to top in config. add path to file. changed gatsby-node.js
