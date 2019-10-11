@@ -1,19 +1,23 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About our Teams
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### LA Sports
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Do you love sports? Well, chances are LA has a team for you! These are the top sports teams in LA right now and my personal favorites! With the recent addition of the Rams, we finally have a NFL team again! Here are some quick facts about each team
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Lakers
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+The Los Angeles Lakers play in the Pacific Division of the Western Conference in the National Basketball Association (NBA). The Lakers are one of the most successful teams in the history of the NBA, and have won 16 championships, their last being in 2010. The Lakers play their home games at STAPLES Center.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Rams
+
+The Los Angeles Rams are a professional American football team that play in the National Football League (NFL). The Rams franchise was founded in 1936 as the Cleveland Rams in the short-lived second American Football League before joining the NFL the next year. In 1946, the franchise moved to Los Angeles. The Rams franchise remained in the metro area until 1994, when they moved to St. Louis, and were known as the St. Louis Rams from 1995 to 2015. The Rams franchise returned to Los Angeles in 2016 and are set to play in the new SoFi Stadium beginning in 2020.
+
+### Dodgers
+
+The Los Angeles Dodgers are members of the National League West division of Major League Baseball (MLB). Established in 1883, the team originated in Brooklyn, New York and moved to Los Angeles before the 1958 season. The Dodgers have won six World Series titles and 21 National League pennants. Home games are played at Dodger Stadium, the third-oldest ballpark in Major League Baseball (after Fenway Park and Wrigley Field).
+
+### Kings
+
+The Los Angeles Kings are members of the Pacific Division of the Western Conference of the National Hockey League (NHL). The Kings have qualified for post-season play in twenty-seven seasons and have won the Western Conference twice. On June 11, 2012, the LA Kings won the franchise's first-ever Stanley Cup, becoming the first 8th seeded team in either NHL or NBA history to win a championship. The Los Angeles Kings’ home ice is at STAPLES Center.
