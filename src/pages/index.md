@@ -28,7 +28,7 @@ intro:
         the NFL with a brand new stadium, talented squad and a brilliant coach.
         A recent loss in Superbowl 53 has the team fired up and ready to make a
         return to bring home the Lombardi Trophy. 
-    - image: /img/dodgers-logo.png
+    - image: /img/dodgers-logo.jpg
       text: >
         The LA Dodgers have quite the history as a baseball team. They have one
         of the oldest ball parks in the MLB and some of the most legendary
