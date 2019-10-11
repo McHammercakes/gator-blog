@@ -2,4 +2,4 @@
 templateKey: test-page
 title: Test
 ---
-Test Post Adding to the page. Added fields to top in config. add path to file
+Test Post Adding to the page. Added fields to top in config. add path to file. still not saving path
