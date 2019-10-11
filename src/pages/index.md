@@ -16,7 +16,7 @@ description: >-
   about all sports teams and go in detail of each game, decision and player. 
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/lakers-logo.png
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
