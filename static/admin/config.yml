@@ -124,6 +124,7 @@ collections:
               widget: "hidden",
               default: "test-page",
             }
+          - { label: "Path", name: "path", widget: "hidden", default: "/path" }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - file: "src/pages/about/index.md"
