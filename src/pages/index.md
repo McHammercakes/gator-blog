@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Everything LA Sports
-image: /img/la-sports.jpg
+image: /img/staples-center.jpg
 heading: LA Sports
 subheading: 'Lakers, Rams, Dodgers, Kings'
 mainpitch:
