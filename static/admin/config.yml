@@ -118,6 +118,12 @@ collections:
         label: "Test"
         name: "test"
         fields:
+          - {
+              label: "Template Key",
+              name: "templateKey",
+              widget: "hidden",
+              default: "test-page",
+            }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Body", name: "body", widget: "markdown" }
       - file: "src/pages/about/index.md"
