@@ -23,25 +23,26 @@ intro:
         players in the Hall of Fame who are also considered some of the best to
         ever play! LA will always be a Lakers town.
     - image: /img/rams-logo.jpeg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        Recently moved back to LA, the Rams are looking to represent the city in
+        the NFL with a brand new stadium, talented squad and a brilliant coach.
+        A recent loss in Superbowl 53 has the team fired up and ready to make a
+        return to bring home the Lombardi Trophy. 
     - image: /img/dodgers-logo.png
       text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        The LA Dodgers have quite the history as a baseball team. They have one
+        of the oldest ball parks in the MLB and some of the most legendary
+        players to ever play the sport. The Dodgers are always fun to watch and
+        are always getting young talent from their farm system. Recent back to
+        back World Series visits have fans excited about this young team's
+        potential. 
     - image: /img/kings-logo.jpg
       text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+        The LA Kings made hockey big in California. Just like every other sport
+        in LA, the kings put on a show. Winning the Stanley Cup in 2012 and 2014
+        has brought them their very first wins as a franchise. The Kings are
+        looking to return to the top within the upcoming seasons and fans are
+        excited to celebrate again when they do! 
   heading: >-
     Los Angeles has the best sports teams in the world! This website will talk
     about all sports teams and go in detail of each game, decision and player. 
