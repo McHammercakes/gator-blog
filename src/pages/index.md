@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Everything LA Sports
-image: /img/staples-center.jpg
+image: /img/la-sports.jpg
 heading: LA Sports
 subheading: 'Lakers, Rams, Dodgers, Kings'
 mainpitch:
@@ -17,19 +17,18 @@ description: >-
 intro:
   blurbs:
     - image: /img/lakers-logo.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        The Los Angeles Lakers are the greatest NBA franchise! The Lakers have
+        had the opportunity to win 16 championships. They have had multiple
+        players in the Hall of Fame who are also considered some of the best to
+        ever play! LA will always be a Lakers town.
     - image: /img/rams-logo.jpeg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
         own beans or just bought your first french press, you’ll find a gadget
         to fall in love with in our shop.
-    - image: /img/dodgers-logo.jpg
+    - image: /img/dodgers-logo.png
       text: >
         Love a great cup of coffee, but never knew how to make one? Bought a
         fancy new Chemex but have no clue how to use it? Don't worry, we’re here
